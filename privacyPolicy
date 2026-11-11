@@ -61,13 +61,13 @@ nav a{margin-right:16px}
 <p>If this policy changes, we will update this page and the date above. Any change to how the app handles data will also appear in a new version of the app.</p>
 
 <h2>Contact</h2>
-<p>If you have questions about this policy, email <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
-<p>Codeberry is developed by Your Name.</p>
+<p>If you have questions about this policy, email <a href="mailto:gursimran1132@gmail.com">gursimran1132@gmail.com</a>.</p>
+<p>Codeberry is developed by Gursimran Singh.</p>
 
 </main>
 <footer>
 <nav><a href="index.html">Home</a><a href="privacy.html">Privacy policy</a><a href="support.html">Support</a></nav>
-<p>Codeberry is an independent app and is not affiliated with or endorsed by Apple Inc. or JetBrains s.r.o. Swift is a trademark of Apple Inc. Kotlin is a trademark of JetBrains s.r.o.</p>
+<p>Codeberry is an independent app and is NOT affiliated with or endorsed by Apple Inc. or JetBrains s.r.o. Swift is a trademark of Apple Inc. Kotlin is a trademark of JetBrains s.r.o.</p>
 </footer>
 </div>
 </body>
